@@ -1,4 +1,6 @@
-### Hi there 😎
+### Turning LaCroix into Code
+
+<img src="https://user-images.githubusercontent.com/8096483/87189499-9f866980-c2a5-11ea-995d-935b0965fd68.jpg" />
 
 <!--
 **jeanpaulsio/jeanpaulsio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
